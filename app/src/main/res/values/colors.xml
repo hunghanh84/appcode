@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_cat_background">#E2DEDE</color>
+    <color name="solid_btn_cat_background">#979797</color>
+    <color name="red">#DD0707</color>
+    <color name="menu">#039da7</color>
+    <color name="menu1">#048A93</color>
+    <color name="bnt">#11ED96</color>
+</resources>
